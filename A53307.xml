@@ -1,0 +1,523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The race set before us, shewing the necessity laid upon gospel-believers, to run with diligence thorow all gospel-duties. A sermon preached in London, May 11. 1665. at Mercers-Chappel, unto that most eminent company, the Company of the Mercers. By Giles Oldisworth, Master of Arts, and rector of Burton on the Hill, in Gloucester-shire.</title>
+            <author>Oldisworth, Giles, 1619-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53307</idno>
+            <idno type="STC">Wing O254</idno>
+            <idno type="STC">ESTC R214468</idno>
+            <idno type="EEBO-CITATION">99826635</idno>
+            <idno type="PROQUEST">99826635</idno>
+            <idno type="VID">31040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1766:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The race set before us, shewing the necessity laid upon gospel-believers, to run with diligence thorow all gospel-duties. A sermon preached in London, May 11. 1665. at Mercers-Chappel, unto that most eminent company, the Company of the Mercers. By Giles Oldisworth, Master of Arts, and rector of Burton on the Hill, in Gloucester-shire.</title>
+                  <author>Oldisworth, Giles, 1619-1678.</author>
+               </titleStmt>
+               <extent>[4], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A: &amp; L: Lichfield, printers to the University,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31040:1" rendition="simple:additions"/>
+            <p>THE RACE SET BEFORE US, Shewing the <hi>Neceſsity</hi> laid upon <hi>Goſpel-Believers,</hi> to run <hi>with diligence</hi> thorow all <hi>Goſpel-Duties.</hi>
+            </p>
+            <p>A SERMON Preached in <hi>London, May</hi> 11. 1665. AT <hi>MERCERS-CHAPPEL,</hi> Unto that moſt <hi>Eminent Company,</hi> THE Company of the <hi>Mercers.</hi>
+            </p>
+            <q>
+               <p>Incipere multorum eſt, perſeverare perpaucorum.</p> 
+               <bibl>Bernard.</bibl>
+            </q>
+            <p>By <hi>Giles Oldiſworth,</hi> Maſter of <hi>Arts,</hi> and <hi>Rector</hi> of <hi>Burton</hi> on the <hi>Hill,</hi> in <hi>Glouceſter-ſhire.</hi>
+            </p>
+            <p>
+               <hi>Oxford,</hi> Printed by <hi>A:</hi> &amp; <hi>L: Lichfield,</hi> Printers to the Univerſity. 1666.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31040:2"/>
+            <pb facs="tcp:31040:2"/>
+            <head>To the Right Reverend Father in God, <hi>My ſingular good Lord,</hi> HERBERT, <hi>By Divine Providence,</hi> Lord Biſhop <hi>of</hi> HEREFORD.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE more care<g ref="char:EOLhyphen"/>leſs preſent times are, the more vi<g ref="char:EOLhyphen"/>gilant your <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> is, to make and keep people <hi>zealous of good works:</hi> The ſame was mine endeavour in this <hi>following argument;</hi> which when I preſſed, I ſought, not applauſe, but ſouls: nor do
+<pb facs="tcp:31040:3"/>I now publiſh it, to have it praiſed, but practiſed.</p>
+            <p>Mine eaſie ſtile and familiar method (I hope) none will condemn; ſince <hi>plain<g ref="char:EOLhyphen"/>neſs</hi> is the excellency of every race, but much more of this, for this is <hi>ſpiritual.</hi>
+            </p>
+            <p>The more ſpiritual our <hi>race</hi> here <hi>ſet before us</hi> is, the leſs it deſpaireth of your good <hi>Lordſhips</hi> implored <hi>Patro<g ref="char:EOLhyphen"/>nage:</hi> In very truth, there is no ſmall affinitie between our Apoſtles divine <hi>precept,</hi> and your <hi>Lordſhips</hi> Aposto<g ref="char:EOLhyphen"/>lical <hi>pattern;</hi> in as much as your <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> is made unto us a daily <hi>example</hi> how <hi>ſo</hi> to <hi>run that</hi> we <hi>may obtain.</hi>
+            </p>
+            <p>For inſtance: <hi>Goodly</hi> are thoſe <hi>he<g ref="char:EOLhyphen"/>ritages,</hi> great are thoſe <hi>revenues,</hi> pleaſant are thoſe <hi>manſions, ancient</hi> are thoſe <hi>honours</hi> which the bountie of God hath derived unto your <hi>Lordſhip;</hi> but al<g ref="char:EOLhyphen"/>though all theſe <hi>ennoble</hi> your quality, they no whit <hi>(1) entangle</hi> your goodneſs: So doth your <hi>Lordſhip</hi> over-rule Temporal Bleſſings, that they do on<g ref="char:EOLhyphen"/>ly administer unto your <hi>Lordſhips</hi> ſpi<g ref="char:EOLhyphen"/>ritual
+<pb facs="tcp:31040:3"/>Dignities and Duties; <hi>in them</hi> and <hi>by them</hi> ſerveing the Church and the glory of <hi>Chriſt Jeſus;</hi> for whoſe ſake your <hi>Lordſhip</hi> moſt profeſſedly advan<g ref="char:EOLhyphen"/>ceth as well godlineſs as excellent gifts, and as well holineſs as learning.</p>
+            <p>This is one principal cauſe why, with ſuch obſequious confidence, I am bold to dedicate unto your <hi>Lordſhip</hi> not only this mean Sermon, but it's undeſerving Authour; who ceaſeth not to pray for en<g ref="char:EOLhyphen"/>creaſe of ſanctified bleſsings, both upon your Lordſhip, and upon your Lordſhips Familie: for this becometh; this de<g ref="char:EOLhyphen"/>lighteth</p>
+            <closer>
+               <dateline>
+                  <hi>From my Study,</hi> 
+                  <date>Nov. 7. 1665.</date>
+               </dateline>
+               <signed>Your good Lordſhips moſt obliged Servant, &amp; moſt devoted Chaplain, <hi>Giles Oldiſworth.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:31040:4"/>
+            <p>Perlegi hanc Concionem cui Titulus <hi>(The Race ſet before us)</hi> in quâ nihil reperio, quo minus ſummâ cum utilitate <hi>imprimatur</hi>
+            </p>
+            <closer>
+               <signed>ROB. SAY, <hi>S. Th. D.</hi> Vice-Can. Oxon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:31040:4"/>
+            <head>THE RACE SET BEFORE US, Shewing, The <hi>Neceſſity</hi> lay d upon <hi>Goſpel-Belie<g ref="char:EOLhyphen"/>vers,</hi> to run <hi>with diligence</hi> throrow all <hi>Goſpel-Duties.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>1 Cor. 9.24.</bibl>
+                  <p>So run that ye may obtain.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Orinth</hi> was a city of <hi>Greece;</hi> the <hi>Grecians</hi> were a peo<g ref="char:EOLhyphen"/>ple <hi>hoſtile</hi> and <hi>War-like;</hi> in fight, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> he made the beſt Warriour who was,<note place="margin">2 Sam. 2.18.</note> like <hi>Aſahel,</hi> ſwifteſt of foot; to encourage a ſwiftneſs of foot, at <hi>ſet Places,</hi> at <hi>ſet Times,</hi> were or<g ref="char:EOLhyphen"/>dained, were inſtituted, ſolemn raceings; <hi>crowns of baies,</hi> or ſome other <hi>prizes,</hi> were publickly produced; for which <hi>run</hi> the <hi>race</hi> who ſo <hi>would,</hi> run ſwifteſt who ſo <hi>could;</hi> he, and he only, who was the <hi>ſpeedieſt runner,</hi>
+               <pb n="4" facs="tcp:31040:5"/>wore the <hi>baies</hi> and won the <hi>prize:</hi> Unto theſe ſolemnities S. <hi>Paul</hi> here alludeth,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">The Text </seg>
+               </label> Saith he, <hi>verſ.</hi> 24. I appeal from my <hi>pra<g ref="char:EOLhyphen"/>ctices</hi> unto your own <hi>cuſtoms,</hi> I report my<g ref="char:EOLhyphen"/>ſelf unto your <hi>Olympick</hi> games, unto your <hi>Iſthmian</hi> races <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Doe ye not ſee, that they who are running a race, doe indeed run all, but one</hi> onely <hi>receiveth the prize? So run that ye may obtain.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Paraphraſed. </seg>
+               </label> Beloved, while our <hi>ready writer</hi> thus ap<g ref="char:EOLhyphen"/>par relleth his Argument with ſimilitudes borrowed from <hi>Iſthmian</hi> races, Note (I pray you) as well his <hi>language</hi> as his <hi>exhor<g ref="char:EOLhyphen"/>tation;</hi> The ſenſe, the meaning, of his ex<g ref="char:EOLhyphen"/>hortation urgeth, <hi>Know ye not, that many are called, but few are choſen? So obey the Goſpel that ye may,</hi> with fear and trembling, <hi>work out your ſalvation.</hi> This (you ſee) is our Authors ſenſe and meaning; but, while to expreſs this his meaning, this <hi>Maſter of Elo<g ref="char:EOLhyphen"/>quence</hi> fetcheth about forms of ſpeech from Perſons running in races, his <hi>phraſe</hi> import<g ref="char:EOLhyphen"/>eth more than his <hi>precept.</hi> wherefore</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſervation. </seg>1</label> From this very phraſe, Learn <hi>how to win on mens capacities:</hi> Perceive. ye not, that there is no better way to ſilence gain-ſayers, than by aſſaulting them with <hi>matters from
+<pb n="5" facs="tcp:31040:5"/>within their own knowledge?</hi> Oh, convince the diſputer of this World by things ſo evi<g ref="char:EOLhyphen"/>dent, that there-unto he him-ſelf muſt be for<g ref="char:EOLhyphen"/>ced to allow his aſſent: Sirs, As people are not eaſily eſtranged from their old acquain<g ref="char:EOLhyphen"/>tances, ſo they are <hi>ſoon reconciled unto what they know;</hi> Things <hi>already known,</hi> (if once they are mentioned) as they leave a juſt impreſſion upon the memorie, ſo they <hi>ſet an edg upon the underſtanding;</hi> A word thus ſpok<g ref="char:EOLhyphen"/>en how good is it? 1 <hi>Cor.</hi> 13.1. <hi>If I want charitie</hi> I become <hi>as ſounding braſs;</hi> Full well raiſeth the <hi>Holy Ghoſt</hi> unto theſe <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> a compariſon <hi>from braſs,</hi> ſince no one City was ſo famous for <hi>Braſs</hi> as was this City of <hi>Gorinth;</hi> Fitly alſo doth he here in my Text ſpeak unto them of <hi>running,</hi> ſince theſe <hi>Corinthians</hi> excelled in the races at <hi>Iſthmus.</hi> (This is, then, the firſt inſtruction.) <q>If ye would be able <hi>to convince others,</hi> be able to allude <hi>unto inſtances within their own knowledge.</hi>
+               </q>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſervation. </seg>2</label> Next, in that this form of ſpeech ſo im<g ref="char:EOLhyphen"/>mediately <hi>relateth unto histories</hi> of former times, even unto ſports and cuſtoms anci<g ref="char:EOLhyphen"/>ently uſed amongſt the <hi>Graecians of old;</hi> Ob<g ref="char:EOLhyphen"/>ſerve ſecondly, how <hi>ill-advis'd</hi> all ſuch per<g ref="char:EOLhyphen"/>ſons are, who cry down <hi>humane learning</hi> for either <hi>needleſs,</hi> or <hi>worſe:</hi> True, 2 <hi>Tim.</hi> 3.15, God's written word <hi>is able to make us wiſe</hi> unto ſalvation; mean while it ſeemeth good
+<pb n="6" facs="tcp:31040:6"/>unto the ſame <hi>bleſsed Spirit</hi> which <hi>endited</hi> it, that <hi>humane learning</hi> ſhould make us wiſe in this written word; I ſay, If we would finde the Holy Scriptures able to make us wiſe unto ſalvation; either we muſt <hi>contemn the good gifts of Gods good Spirit,</hi> elſe we muſt acknowledge <hi>humane learning</hi> to be that which <hi>maketh us wiſe in</hi> theſe <hi>Scriptures.</hi> But, <hi>contra rationem nemo ſobrius,</hi> as for thoſe <hi>of our times</hi> who appear ſuch <hi>haters of knowledge,</hi>
+               <note place="margin">
+                  <hi>S.</hi> Aug: <hi>de</hi> Trir.</note> their <hi>folly</hi> is already <hi>manifeſted unto all men;</hi> ſo manifeſted that (I truſt) <hi>they</hi> them-ſelves <hi>ſhall proceed no farther:</hi> Nor will I; Wherefore, in the third place,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſervation. </seg>3</label> In that our Apoſtle maketh ſo <hi>profitable</hi> a uſe of theſe races whereunto he here re<g ref="char:EOLhyphen"/>fers us, Obſerve thirdly, <hi>To the pure all things are pure:</hi> A holy mind can <hi>ſpiritualize</hi> ſecu<g ref="char:EOLhyphen"/>lar tranſactions; The whole creation is, or at leaſt ought to be, every whit as ſervicea<g ref="char:EOLhyphen"/>ble to the <hi>inward,</hi> as unto the <hi>outward,</hi> man; There is a kind of a <hi>religious chimeſtrie</hi> in a devout ſoul; <hi>Gen.</hi> 24.63. Send <hi>Iſaac</hi> into the field, and he <hi>will meditate;</hi> Once let the <hi>Greeks</hi> ſolemnize raceings, and S. <hi>Paul</hi> will give them the <hi>ſtarting word "So run that ye may obtain.</hi>
+            </p>
+            <p>But <hi>(diſtillatio favi)</hi> that which, without any the leaſt ſtraining, moſt naturally drop<g ref="char:EOLhyphen"/>peth from my whole Text, is this <hi>twofold</hi> Doctrine.</p>
+            <pb n="7" facs="tcp:31040:6"/>
+            <list>
+               <item>1. Doctrin: <hi>The whole duty of Man re<g ref="char:EOLhyphen"/>ſembleth a race.</hi>
+               </item>
+               <item>2. Doctrin: <hi>We ſhould</hi> all of us <hi>more ear<g ref="char:EOLhyphen"/>neſtly ſtrive to run thorow our whole duty, then they strive who run a race.</hi>
+               </item>
+            </list>
+            <p>That <hi>the whole duty of Man reſembleth a race,</hi> I ſhall endeavor to illuſtrate,<label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>1</label>
+               <list>
+                  <item> 1. From the <hi>Holy Ghoſts uſual way of ſpeak<g ref="char:EOLhyphen"/>ing;</hi> and ſo infinitely wiſe is the <hi>Holy Ghoſt,</hi> 
+                     <label type="milestone">
+                        <seg type="milestoneunit">proved. </seg>
+                     </label> that He (at all times) well knoweth how to <hi>ſhape</hi> his Diſcourſe.</item>
+                  <item>2. From <hi>his</hi> own <hi>deſcants upon this his</hi> own <hi>dialect;</hi> and of all <hi>Expoſitors</hi> which, ei<g ref="char:EOLhyphen"/>ther may, or can, be conſulted, <hi>he is ever the beſt Interpreter</hi> of himſelf.</item>
+                  <item>3. From the <hi>Spirit and Life</hi> of this <hi>meta<g ref="char:EOLhyphen"/>phorical</hi> Precept, "<hi>So run that ye may obtain;</hi> and when I have repreſented this, you will yet more perfectly underſtand my Text.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proof; </seg>1</label>
+               <note place="margin"> 
+                  <hi>viz:</hi> from the <hi>phraſe</hi> it ſelfe. <hi>Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tic.</hi> 1.4.</note> That <hi>the whole duty of Man reſembleth a race,</hi> will appear, firſt, from the <hi>Holy Ghoſts uſual way of ſpeaking;</hi> In the <hi>Old</hi> Teſtament, <hi>Draw me</hi> (by thy good Spirit) <hi>we will run af<g ref="char:EOLhyphen"/>ter thee</hi> (in thy ways;) When thou haſt en<g ref="char:EOLhyphen"/>larged my heart,<note place="margin">
+                  <hi>Pſal.</hi> 119.32.</note> 
+               <hi>I will run the way of thy Commandments:</hi> In the <hi>New</hi> Teſtament, this Pen-man (to name none elſe) can ſcarcely point at our <hi>Goſpel-duties</hi> and eſcape this <hi>metaphor:</hi> He might have ſpoken his minde to the <hi>Philippians,</hi> by ſaying,<note place="margin">
+                  <hi>Phil.</hi> 2.16.</note> 
+               <hi>I have not la<g ref="char:EOLhyphen"/>bored
+<pb n="8" facs="tcp:31040:7"/>in vain;</hi> nevertheleſs, he prefixeth, <hi>I have not run in vain:</hi>
+               <note place="margin">Gal. 2.2.</note> To the <hi>Galathians</hi> he might have ſaid, Leſt I ſhould or had <hi>failed of my purpoſe;</hi> but he phraſeth it, <hi>Leſt I ſhould or had run in vain:</hi> And inſtead of ſay<g ref="char:EOLhyphen"/>ing,<note place="margin">Gal. 5.7.</note> Ye did <hi>ſincerely</hi> obey the Goſpel, he tel<g ref="char:EOLhyphen"/>leth them, <hi>Ye did run well:</hi> Neither doth he <hi>vary his language</hi> to the <hi>Romans,</hi> when he a<g ref="char:EOLhyphen"/>voucheth,<note place="margin">Rom. 9.16.</note> 
+               <hi>It is not of him that willeth</hi> (not of him that endeavoreth) <hi>nor of him that runneth</hi> (of him that performeth) <hi>but of God who ſheweth mercy</hi> both unto him that <hi>wil<g ref="char:EOLhyphen"/>leth,</hi> and unto him that <hi>runneth</hi> too. <hi>Sirs,</hi> Think not theſe, or other like inſtances, <hi>wide and too too general;</hi> you will finde them all <hi>pertinent and home</hi> to our purpoſe, when at length ye conſider how (in all theſe ex<g ref="char:EOLhyphen"/>preſſions) St. <hi>Paul</hi> ever intimateth <hi>a race</hi> ſet before us: yea, (as if he there did it once for all,) <hi>Heb.</hi> 12.1, he moſt plainly ſo ex<g ref="char:EOLhyphen"/>preſſeth himſelf.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proof: </seg>2</label> 
+               <note place="margin">
+                  <hi>viz.</hi> From <hi>what the Holy Ghoſt enlargeth</hi> up<g ref="char:EOLhyphen"/>on this phraſe.</note>If the phraſe ſuffice not to evidence, that <hi>the whole duty of Man is a race</hi> ſet before him; yet the <hi>Holy ghoſts large deſcants upon this phraſe</hi> will ſufficiently prove it, <hi>Heb.</hi> 12.1. where St. <hi>Paul</hi> adviſeth,<note place="margin">Heb. 10.36.</note> 
+               <hi>Let us run the race ſet before us,</hi> there ſee how he deſcanteth upon this advice: Like <hi>a partner in the betts,</hi> he inſtructeth, <hi>Let us lay aſide every weight</hi> (for Sin is burthenſom;) and (ſince <hi>we have need of patience</hi> if ever we will endure to
+<pb n="9" facs="tcp:31040:7"/>the end) he addeth, <hi>Let us run with patience;</hi>
+               <note place="margin">
+                  <hi>Gal,</hi> 6.9.</note> If we would obtain the prize for which we run, though we <hi>be</hi> faint, though we <hi>be</hi> weary, <hi>hold on</hi> we muſt; <hi>perſiſt</hi> we muſt, <hi>weary of well running</hi> we muſt not be; therefore he exhorteth, <hi>Let us run with patience:</hi> Again, one running a Race doth <hi>cloath</hi> himſelf <hi>as lit<g ref="char:EOLhyphen"/>tle,</hi> and <hi>load</hi> himſelf <hi>as light,</hi> as, <hi>ſaving the Articles,</hi> he may; accordingly St. <hi>Paul</hi> coun<g ref="char:EOLhyphen"/>ſelleth, <hi>Let us lay aſide every ſin, every weight;</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 13.14</note> And ſtriving, <hi>if by any means,</hi> he <hi>might at<g ref="char:EOLhyphen"/>tain unto the reſurrection of the dead:</hi> he af<g ref="char:EOLhyphen"/>firmeth, <hi>This one thing I do, forgetting thoſe things which are behind, and reaching forth unto thoſe before, I preſs toward the mark.</hi> Beloved, ſo palpably would he have us run over <hi>our whole duty,</hi> as over <hi>a Race ſet before us;</hi> that he ſpeaketh juſt, <hi>(juſt for all the world)</hi> like one <hi>in the heat of his courſe: Pe<g ref="char:EOLhyphen"/>ctora noſtra duas non admittentia curass</hi> there<g ref="char:EOLhyphen"/>fore,<note place="margin">Ovid.</note> ſaith he, <hi>Hoc ago,</hi> This <hi>Goſpel-conver<g ref="char:EOLhyphen"/>ſation</hi> I ply, <hi>work out</hi> my <hi>ſalvation</hi> I do, and <hi>for this onely</hi> I work; forgetting <hi>(the mile<g ref="char:EOLhyphen"/>poſts already by-paſt)</hi> the Graces already at<g ref="char:EOLhyphen"/>tained, and reaching forth unto <hi>(that part of the Race yet before me)</hi> the Vertues not yet perfected; <hi>I preſs forward</hi> (might and main) <hi>toward the mark for the prize. Brethren,</hi> ſuch a <hi>continued exerciſe,</hi> ſuch <hi>a life,</hi> is, <hi>beyond all ſeruple,</hi> a Race; <hi>a Race,</hi> in every reſpect.</p>
+            <pb n="10" facs="tcp:31040:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proof: </seg>3</label> 
+               <note place="margin">
+                  <hi>viz.</hi> from the <hi>pre<g ref="char:EOLhyphen"/>ſent Text.</hi>
+               </note>This is yet more plain from the <hi>ſpirit and life</hi> of this precept "<hi>So run that ye may obtain;</hi> the <hi>ſpirit and life</hi> of which words, is <hi>eaſie to him that understandeth;</hi> ſo eaſie, that it requir<g ref="char:EOLhyphen"/>eth more of <hi>your remembrance</hi> than of <hi>mine interpretation:</hi> all of you will ſoon conceive their full intent and purpoſe, if you call to minde,</p>
+            <p n="1">1. <hi>What race</hi> that is which <hi>is here ſet be<g ref="char:EOLhyphen"/>fore us,</hi>
+            </p>
+            <p n="2">2. <hi>What</hi> it is, <hi>to run</hi> this race,</p>
+            <p n="3">3. <hi>What that is, which is,</hi> by running, to be obtained,</p>
+            <p n="4">4. <hi>What it is, ſo to run</hi> that we may obtain.</p>
+            <p n="1">1. Ye know the race here ſet before us, is, not ſimply <hi>life,</hi> (for, although we <hi>ſit ſtill,</hi> the <hi>dayes of our pilgrimage</hi> ſtill run on;) I ſay, the race here ſet before us is, not ſimply <hi>life,</hi> but <hi>liveing;</hi> not living, but <hi>leading a life;</hi> it is <hi>our demenour during this life:</hi> once for all,<note place="margin">2 <hi>Cor.</hi> 1.12.</note> it is <hi>our converſation in this world.</hi>
+            </p>
+            <p n="2">2. Our <hi>running</hi> of this race, is <hi>the guiding of our feet,</hi> the <hi>ordering of our converſation.</hi>
+            </p>
+            <p n="3">3. That which by running <hi>may be obtain<g ref="char:EOLhyphen"/>ed, is,<note place="margin">
+                     <hi>Heb.</hi> 13.7. <hi>Pet.</hi> 1.9. <hi>Eſa.</hi> 35.10. <hi>Phil.</hi> 3.14. <hi>Pſal.</hi> 50.23.</note> The end of our converſation;</hi> The <hi>end of our faith;</hi> it is here <hi>v.</hi> 25, <hi>a crown incorrupti<g ref="char:EOLhyphen"/>ble, Everlaſting joy upon our heads;</hi> it is, in a word, <hi>The prize of the high calling of God in Chriſt Jeſus.</hi>
+            </p>
+            <p n="4">4. Our running, our <hi>ſo'running,</hi> that we may obtain this prize, is, <hi>The ordering of our converſation aright.</hi>
+            </p>
+            <pb n="11" facs="tcp:31040:8"/>
+            <p>Put all this together, <hi>and from all this put together,</hi> more than manifeſt it is, that <hi>the duty ſet before us, is a race</hi> required of us; which race <hi>ſo run that ye may obtain the prize.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>2</label> Now, as the <hi>Goſpel-duties</hi> ſet before us <hi>make up a ſpiritual race,</hi> ſo <hi>we muſt more ear<g ref="char:EOLhyphen"/>neſtly ſtrive to perform every Goſpel-duty-th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n they ſtrive who run to win a prize:</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">proved. </seg>
+               </label> This is <hi>a hard ſaying;</hi> never the leſs, I doubt not to prove the truth of it, from both text, and context.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proof: </seg>1</label> 
+               <note place="margin">
+                  <hi>viz.</hi> from the <hi>pre<g ref="char:EOLhyphen"/>ceding verſes.</hi>
+               </note>Our ſalvation is 2 <hi>Tim.</hi> 2.10 in Chriſt Jeſus; but if ever we will <hi>obtain the ſalvation which is in Chriſt Jeſus,</hi> we muſt <hi>more</hi> vehe<g ref="char:EOLhyphen"/>mently <hi>ſtrive to obey the whole Goſpel,</hi> than they ſtrive who run to win a race; This you will ſoon diſcern,<note place="margin">1 <hi>Cor.</hi> 9.24.</note> if you firſt perceive that <hi>immediate dependance</hi> which this 24th <hi>verſe</hi> hath upon the <hi>preceding verſes;</hi> If ye accompt ſo much upon your <hi>Chriſtian liberty,</hi> (ſaith St. <hi>Paul</hi>) conſider, <hi>Am I not an Apoſtle</hi> v: 1, and therefore One more, much <hi>more, pri<g ref="char:EOLhyphen"/>viledged than any private Chriſtian</hi> can be? <hi>Have not we?</hi> v: 4, have not <hi>Barnabas</hi> and I, as lawful <hi>power to eate and drink</hi> things ſa<g ref="char:EOLhyphen"/>crificed to idols, as have any of you? Hath not <hi>he?</hi> Have not <hi>I, v:</hi> 5, as much right <hi>to lead about a Wife</hi> for mine own enjoyment, as have <hi>James</hi> and <hi>John,</hi> yea as <hi>Peter</hi> himſelf hath? We <hi>labour with our hands</hi> for our
+<pb n="12" facs="tcp:31040:9"/>livelyhoods <hi>v:</hi> 6; but <hi>have not we a power to forbear working?</hi> Verily, as it is, <hi>v:</hi> 7, <hi>unjuſt</hi> that one ſhould <hi>war</hi> for another <hi>at his own charge;</hi> as it is, <hi>v:</hi> 9, <hi>unreaſonable</hi> to <hi>muzzle the Oxe which treadeth out the Corne;</hi> ſo <hi>v:</hi> 14, the <hi>Lord hath ordained that they</hi> (and there<g ref="char:EOLhyphen"/>fore I) <hi>which preach the Goſpel ſhould live of the Goſpel;</hi> yet <hi>v:</hi> 15, I have uſed none of theſe liberties: <hi>In ſhort,</hi> my buſineſs is, <hi>not to pleaſe my ſelf in whatſoever I may,</hi> but <hi>to edifie others wherein ſoever I can;</hi> and this I doe <hi>v:</hi> 23, <hi>that I may,</hi> with you, partake, not of deſtructive libertie, but of a <hi>Goſpel-reward.</hi>
+            </p>
+            <p>
+               <label>A tacite Ob<g ref="char:EOLhyphen"/>jection.</label> 
+               <hi>Queſt:</hi> How falleth in this <hi>v:</hi> 24th? <hi>Anſw:</hi> While our Authour hitherto <hi>gave him-ſelf</hi> for <hi>an example,</hi> carnal hearts would quickly object "What is St. <hi>Pauls</hi> example unto us? His <hi>ſelf-denyal</hi> is no <hi>tye</hi> upon other perſons; he, becauſe a <hi>grand Apoſtle,</hi> preferreth <hi>ſeve<g ref="char:EOLhyphen"/>rity of life</hi> before, either <hi>freedome,</hi> or <hi>profit;</hi> but, they who abide <hi>private Chriſtians,</hi> they who <hi>minde not high things,</hi> they who <hi>affect no</hi> ſuch <hi>popularity,</hi> may even <hi>leave</hi> St. <hi>Paul to His ſtrictneſs;</hi> while they, for their parts, <hi>ſtand faſt in that liberty wherewith Chriſt hath made</hi> them <hi>free.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Removed. </seg>
+               </label> Thus, thus men of corrupt mindes would be apt to argue; but this <hi>tacite objection</hi> our <hi>v.</hi> 24th preventeth; this <hi>ſort of gain-ſayers</hi> our Apoſtle <hi>undeceiv<g ref="char:EOLhyphen"/>eth:</hi> ſaith he, Never miſtake your ſelves;
+<pb n="13" facs="tcp:31040:9"/>this <hi>ſtrictneſs</hi> of mine, is no more then what is neceſſary; <hi>Know ye not, that many profeſs the Goſpel, but few obey it</hi> as they ought? <hi>So run</hi> thorow every Goſpel-duty, <hi>that ye may</hi> at laſt <hi>obtain</hi> the hope which is ſet before you: Ye ſee now, we can none of us be <hi>followers of St. Paul,</hi> as he here giveth himſelf for an example, unleſs we more earneſtly <hi>ſtrive</hi> to perform <hi>our</hi> duties, then they ſtrive who run to win a race. (That, my firſt proof.)</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proof: </seg>2</label> 
+               <note place="margin">viz. <hi>From</hi> the pre<g ref="char:EOLhyphen"/>ſent verſe,</note> But wherefore ſhould we dwell upon the <hi>Context,</hi> ſince the <hi>Text</hi> it ſelf ſo plainly con<g ref="char:EOLhyphen"/>firmeth this truth? <hi>Know ye not, that they which run in a race run all, but one onely recei<g ref="char:EOLhyphen"/>veth the prize? Beloved,</hi> that race was a <hi>vain ſport,</hi> that prize a <hi>corruptible crown;</hi> but the race ſet before us, is <hi>ſpiritual;</hi> and the crown after which we preſs, is <hi>eternal:</hi> Now, if none could receive that <hi>corruptible crown</hi> but he, and he onely, which out-ran all o<g ref="char:EOLhyphen"/>thers, neither can we receive the <hi>high prize of our calling in Chriſt Jeſus,</hi> unleſs we ſtrive more earneſtly to obtain it, then they did ſtrive who ran that race.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Application. </seg>
+               </label> By this time, <hi>theſe ſayings</hi> have ſunk <hi>deep into your ears:</hi> For who can call this Precept unto his remembrance, and not <hi>underſtand for time to come?</hi> or, Who can wiſely under<g ref="char:EOLhyphen"/>ſtand theſe ſaving Truths, and neglect to <hi>work out that ſalvation which is in Chriſt Je<g ref="char:EOLhyphen"/>ſus?</hi>
+               <pb n="14" facs="tcp:31040:10"/>Nevertheleſs, that each of you may, <hi>not onely be, but continue,</hi> wiſe unto ſalvation; that all of you may, <hi>not onely run, but ſo run</hi> that ye may obtain; unto me it will not be grievous, to preſs forward unto <hi>Applica<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reproof. </seg>1</label> 
+               <hi>Christians,</hi> Ought we to <hi>perform all Goſpel<g ref="char:EOLhyphen"/>duties</hi> with ſo great a watchfulneſs? Muſt we <hi>ſo run as if</hi> we were <hi>running a race?</hi> yea, and <hi>ſo run this race</hi> too, <hi>as</hi> they who are run<g ref="char:EOLhyphen"/>ning <hi>for a prize?</hi> Doth the Holy Ghoſt <hi>com<g ref="char:EOLhyphen"/>mand</hi> us to run, and to run ſo? Then is this <hi>commandment</hi> a <hi>Reproof unto</hi> thoſe inconſi<g ref="char:EOLhyphen"/>derate, careleſs, <hi>ſtupid, Creatures who heed not whether there be any ſuch race</hi> ſet before us, or no: Alas! although <hi>truth</hi> be <hi>the ad<g ref="char:EOLhyphen"/>equate object of the underſtanding;</hi> yea, al<g ref="char:EOLhyphen"/>though <hi>the more conſiderable</hi> any truth is, <hi>the more</hi> (in reaſon) <hi>it ſhould work</hi> upon the un<g ref="char:EOLhyphen"/>derſtanding; yet, by ſome <hi>idle-minded</hi> per<g ref="char:EOLhyphen"/>ſons, the <hi>weightieſt</hi> points are <hi>lighteſt</hi> ſet by; <hi>Death, Judgement, Hell, Eternity,</hi> how unque<g ref="char:EOLhyphen"/>ſtionable <hi>(theſe?)</hi> Yet <hi>(the Lord forgive us)</hi> ſeldom do we <hi>meditate upon theſe things.</hi> Know we not, that we have every one of us as well <hi>a ſoul to be ſaved,</hi> as a body? yet (to their ſhame <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeak it) ſome among us more frequently <hi>cleanſe from filthineſs,</hi> the <hi>nails</hi> of our fingers, or the <hi>hair</hi> of our head (I had almoſt ſaid, the <hi>hair of our Pery-wigs</hi>) then theſe <hi>precious,</hi> theſe <hi>immortal</hi> ſouls of
+<pb n="15" facs="tcp:31040:10" rendition="simple:additions"/>oures! If with fear and trembling we muſt ſtrive to run, and ſo to run that we may ob<g ref="char:EOLhyphen"/>tain; blame worthy are all ſuch <hi>(and ſuch are moſt among us)</hi> that <hi>neither care to obtain, nor ſtrive to run.</hi> (That is the firſt.)</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reproof. </seg>2</label> Secondly, ſeeing we ſhould all of us run, and run to obtain, This reproveth <hi>preſump<g ref="char:EOLhyphen"/>tions Reprobates,</hi> who inſtead of running from the <hi>torments of hell</hi> unto the <hi>pleaſures of hea<g ref="char:EOLhyphen"/>ven,</hi> that is, inſtead of running from a <hi>ſtate of nature</hi> to a <hi>state of grace,</hi> from a <hi>heart of un<g ref="char:EOLhyphen"/>beleif</hi> to a <hi>lively faith,</hi> from a <hi>dung-hill of dead works</hi> unto <hi>fruits of righteouſneſs,</hi> doe run from <hi>bad to worſe:</hi> Such <hi>harden them<g ref="char:EOLhyphen"/>ſelves</hi> in their own <hi>naturall corruptions!</hi> Such <hi>give themſelves over</hi> unto a <hi>perpetual back<g ref="char:EOLhyphen"/>ſliding!</hi> whatſoever <hi>looketh toward</hi> godlineſs and true holineſs, that they <hi>deſpiſe!</hi> wicked miſcreants, <hi>(but deſperately wicked!)</hi> Is it not enough that you <hi>neglect to run,</hi> unleſs in<g ref="char:EOLhyphen"/>ſtead of running forward, ye <hi>lye down in your ſhame?</hi> Can you not be content that ye <hi>de<g ref="char:EOLhyphen"/>ſert the race,</hi> unleſs you <hi>trample under foot the prize</hi> which is ſet before you? Our graci<g ref="char:EOLhyphen"/>ous and mercifull God deſireth, that even you would obtain <hi>an inheritance with the Saints in light,</hi> and doe you take a <hi>vain glory</hi> in <hi>ſelling your ſelves unto the Prince of dark<g ref="char:EOLhyphen"/>neſs?</hi> O ye fooles, when will ye underſtand?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reproof. </seg>3</label> Thirdly, Since there is no obtaining ſal<g ref="char:EOLhyphen"/>vation
+<pb n="16" facs="tcp:31040:11"/>in Chriſt Jeſus, unleſs we <hi>ſo run as we ought;</hi> inexcuſable are multitudes, who, al<g ref="char:EOLhyphen"/>though they doe not <hi>deliberately harden themſelvess</hi> in running contrary to God, yet <hi>(if they doe but run at all)</hi> heed not whether they <hi>ſo run</hi> that they may obtain. You <hi>(luke<g ref="char:EOLhyphen"/>warm Profeſſors)</hi> will you accompt that a <hi>good fight,</hi> which is only a <hi>beating the aire?</hi> will you eſteem that a <hi>well running,</hi> which is only <hi>a running in vain?</hi> He is more then ſtupid, who <hi>ſlumbereth</hi> in the midſt of <hi>his race!</hi> As good never a whit, as never the better: <hi>Know ye not, that they which run in a race, run all, but one only receiveth the prize?</hi> No <hi>af<g ref="char:EOLhyphen"/>fections,</hi> no <hi>feet;</hi> if ye <hi>cut off the feet</hi> of your affections, be ye ſure, ye ſhall <hi>reap damage:</hi> It is ſaid of <hi>Idolls,</hi> leggs have they and <hi>walk not;</hi> will you be ſuch? Run not, like them whoſe <hi>feet are out of joynt;</hi> but <hi>ſo run that ye may obtain:</hi> And, if obtain you would, re<g ref="char:EOLhyphen"/>ceive theſe <hi>inſtructions,</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtruction. </seg>1</label> Firſt, <hi>Let every man diſcharge the duty of his own calling,</hi> Cor. 7.24. Our converſati<g ref="char:EOLhyphen"/>on can never be <hi>as becometh the Goſpel,</hi> ex<g ref="char:EOLhyphen"/>cept every man, <hi>wherein he is called, therein abide with God</hi> Rom. 12, He that <hi>miniſtreth</hi> let him <hi>wait on his miniſtring;</hi> he that <hi>teach<g ref="char:EOLhyphen"/>eth, on teaching;</hi> and he that <hi>ruleth, let him rule with diligence:</hi> (Bear with me) Of late, there is <hi>too great a want of this diligence in rulers;</hi> Profaneneſs threatneth, if not the <hi>cheif
+<pb n="17" facs="tcp:31040:11"/>City,</hi> yet many <hi>cheif places,</hi> within this King<g ref="char:EOLhyphen"/>dome! It <hi>evil becometh a Chriſtian Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> to <hi>bear the ſword of his God in vain.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtruction. </seg>2</label> Secondly, If we would obtain that for which we run; let <hi>every one</hi> of us <hi>mind the preſent duty: Friends,</hi> As every <hi>promiſe</hi> to us made, <hi>implyeth a duty</hi> requiſite from us, ſo every <hi>place,</hi> every <hi>moment,</hi> requireth from us a <hi>preſent duty</hi> too: <hi>Mat.</hi> 11.25 <hi>At that time Jeſus anſwered and ſaid, Object.</hi> No body ſpake to him; <hi>Anſw. Ieſus anſwered</hi> the <hi>then</hi> preſent <hi>opportunity; viz.</hi> Unto every <hi>inſtant of time</hi> there is an <hi>anſwer due;</hi> I doe not <hi>anſwer my duty</hi> now, except I ſo ſpeak as for <hi>edification,</hi> and that too, as <hi>from the Lord;</hi> neither doe yee <hi>now anſwer</hi> your <hi>duties,</hi> ex<g ref="char:EOLhyphen"/>cept ye now hear as perſons deſirous to <hi>in<g ref="char:EOLhyphen"/>form, awaken,</hi> and <hi>ſtrengthen</hi> your ſouls.</p>
+            <p>[You of this <hi>Eminent Societie,</hi> you the <hi>Ho<g ref="char:EOLhyphen"/>norable Company</hi> of <hi>Mercers,</hi> will anſwer <hi>Your duties,</hi> if you <hi>(this day)</hi> ſhew your ſelves <hi>faithful ſtewards</hi> of thoſe bleſſings in behalf of <hi>pious and charitale uſes,</hi> wherewith the li<g ref="char:EOLhyphen"/>beral hand of your God hath entruſted you; you will <hi>(this day)</hi> anſwer your duties, if your <hi>Feaſting this day</hi> be among you an oc<g ref="char:EOLhyphen"/>caſion, not unto <hi>diſorder</hi> and <hi>gluttony,</hi> but unto <hi>love unfained</hi> and unto a <hi>rejoycing in the Lord;</hi> I truſt, you will <hi>(this day) unite</hi> your <hi>hearts,</hi> not only to delight in <hi>one ano<g ref="char:EOLhyphen"/>ther,</hi> but <hi>to fear the Lord and his goodneſs.
+<pb n="18" facs="tcp:31040:12"/>(Right Worſhipful)</hi> You are the <hi>chief and moſt eminent</hi> of the <hi>choſen Companies</hi> of this <hi>moſt famous City,</hi> wherefore, if at all times ye would <hi>anſwer your duties;</hi> as your God hath placed you <hi>the firſt in order,</hi> ſo endea<g ref="char:EOLhyphen"/>vour ye (I beſeech you) to <hi>lead and go before others</hi> in good examples, &amp; in good works.]</p>
+            <p>In a word, every one of us then <hi>anſwer<g ref="char:EOLhyphen"/>eth preſent duty,</hi> when he <hi>conſiderately endea<g ref="char:EOLhyphen"/>voreth</hi> to perform that at every preſent ſeaſon wherein he may, <hi>at every preſent ſea<g ref="char:EOLhyphen"/>ſon, beſt glorifie his God:</hi> We muſt <hi>do good,</hi> and <hi>Gal.</hi> 6.10 good we muſt do <hi>as we have opportunity.</hi> 1 <hi>Sam.</hi> 10.7. <hi>Do as occaſion ſhall ſerve;</hi> a good runner <hi>mindeth every ſtep,</hi> he will not loſe, <hi>no not one footing:</hi> Whether <hi>mud</hi> or <hi>ſands,</hi> whether <hi>hills</hi> or <hi>meadows,</hi> li<g ref="char:EOLhyphen"/>mit their <hi>banks,</hi> toward their <hi>Sea rivers run;</hi> they run and <hi>run continually;</hi> and <hi>John</hi> 4.14 living Waters are <hi>ever ſpringing upward:</hi> We Chriſtians, throughout our <hi>Spiritual race,</hi> muſt be <hi>like Soldiers,</hi> ever upon duty. (This is my ſecond inſtruction.)</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtruction. </seg>3</label> Thirdly, If we would ſo run that we may obtain, what duty ſoever we do, <hi>let us do it heartily, as unto the Lord:</hi> Then the <hi>diligent hand maketh rich,</hi> when it <hi>maketh Religion its buſineſs.</hi> Acts 11.23. <hi>We muſt cleave unto the Lord with a full purpoſe of heart. Lev.</hi> 11.42. Whatſoever <hi>multiplieth feet</hi> is <hi>an abominati<g ref="char:EOLhyphen"/>on:</hi> Why? <hi>Anſw.</hi> It can but <hi>creep.</hi> It is then a ſign that we run well, when we <hi>breath</hi> and
+<pb n="19" facs="tcp:31040:12"/>
+               <hi>pant; viz.</hi> when we <hi>breath after holineſs,</hi> and when we <hi>pant after God.</hi> Lovers have a <hi>lan<g ref="char:EOLhyphen"/>guage of their own;</hi> their <hi>feet</hi> talk, their <hi>hands</hi> talk, their <hi>eyes</hi> talk; ſo thou, (when <hi>by<g ref="char:EOLhyphen"/>standers,</hi> when <hi>worldlings</hi> are not aware of it) have a <hi>foot</hi> for thy God, a <hi>hand</hi> for thy God, an <hi>eye</hi> for thy God. <hi>Pſal.</hi> 16.8. They that would <hi>not greatly fall,</hi> do <hi>ſet the Lord al<g ref="char:EOLhyphen"/>way before</hi> them; much more they that would <hi>run well.</hi> Then we <hi>run our beſt,</hi> when <hi>the de<g ref="char:EOLhyphen"/>ſire of our ſoul is toward</hi> the name of our God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtruction. </seg>4</label> Fourthly, If obtain ye would, <hi>Duly fre<g ref="char:EOLhyphen"/>quent Ordinances:</hi> It is good being there where <hi>Princes ſcatter gifts:</hi> It is good being there where <hi>the power of the Lord is preſent to heal.</hi> Eſa: 64.5. <hi>Thou meeteſt them who re<g ref="char:EOLhyphen"/>member thee in thy ways. Quest.</hi> Where are the ways of God? <hi>Anſw. Pſal.</hi> 77.13 <hi>Thy way, O Lord, is in the Sanctuary. Goſpel<g ref="char:EOLhyphen"/>bleſsings</hi> accompany <hi>Goſpel-Ordinances: Joh:</hi> 5.4. While the good <hi>Angel moveth the wa<g ref="char:EOLhyphen"/>ters</hi> of Life, we ſhould not abſent our ſelves from the <hi>Pools of Betheſda. John</hi> 13.30 When <hi>Judas</hi> forſook the <hi>diſciples of Chriſt,</hi> he left <hi>Chriſt</hi> as well as them; but <hi>John</hi> 20 28. When <hi>Thomas</hi> was aſſembled with the reſt of the Diſciples, he was then no longer <hi>faithleſs,</hi> but <hi>believing.</hi> Unto this hour <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt teacheth daily in the Temple;</hi> though not by <hi>himſelf,</hi> yet by his <hi>choſen Miniſters.</hi> That is (then) a fourth Inſtruction, <hi>Let us not
+<pb n="20" facs="tcp:31040:13"/>forſake the aſſembling of our ſelves together, as the manner of ſome is.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtruction. </seg>5</label> Fifthly, If ye will <hi>ſo run that ye may ob<g ref="char:EOLhyphen"/>tain;</hi> In the uſe of all Goſpel-Ordinances, <hi>wait for the Spirit accompanying thoſe Ordinan<g ref="char:EOLhyphen"/>ces.</hi> Jer: 10.23 <hi>It is not in Man that walk<g ref="char:EOLhyphen"/>eth</hi> (much leſs in man that runneth) <hi>to direct his own ſteps;</hi> but <hi>Eſa:</hi> 58.11, <hi>The Lord</hi> he <hi>ſhall guide</hi> us <hi>continually; Pſal.</hi> 143.3 <hi>Our ſoul is like a barren and dry land,</hi> it is God that (<hi>Eſa:</hi> 58.11) <hi>maketh</hi> us <hi>like a watered gar<g ref="char:EOLhyphen"/>den. Pſal.</hi> 143.10 <hi>Lead me,</hi> but lead me with <hi>thy good ſpirit;</hi> now this ſpirit is given, <hi>Luk</hi> 11.13 <hi>to them who</hi> thorow very hunger <hi>ask</hi> for it. If in every exerciſe of godlineſs, we <hi>thirſt</hi> after a <hi>communion with our God,</hi> a com<g ref="char:EOLhyphen"/>munion we ſhall partake; for our God hath told us, <hi>Eſa:</hi> 44.3 <hi>I will pour water upon him that is thirſty.</hi> Matth. 7.7 <hi>Seek grace, and finde grace.</hi> Of old time, they who ran races, did firſt <hi>anoint themſelves with oyl,</hi> and we <hi>(in this ſpiritual race)</hi> ſhould, 1 <hi>John</hi> 2.27 uſe <hi>the ointment of the Holy Ghoſt.</hi> 1 <hi>Sam.</hi> 10.9 When <hi>Saul</hi> was anointed, God gave <hi>Saul</hi> another Spirit: <hi>(Beloved)</hi> as <hi>Royal <g ref="char:V">Ʋ</g>nction,</hi> ſo <hi>Holy <g ref="char:V">Ʋ</g>nction,</hi> not onely <hi>declareth a right,</hi> but <hi>enableth for duty.</hi> Cant: 1.4 <hi>We will run after thee, Qu:</hi> How ſo? <hi>Anſw: v.</hi> 3, <hi>Thy name is as oyntment powred forth:</hi> Once get <hi>the Ointment of the Holy One,</hi> you will then <hi>ſo run that ye may obtain.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtruction. </seg>6</label> Laſtly, <hi>Do all in the name of the Lord Jeſus.</hi>
+               <pb n="21" facs="tcp:31040:13"/>Among other Excellencies in our <hi>Engliſh Li<g ref="char:EOLhyphen"/>turgy,</hi> this is not the leaſt, That <hi>almost eve<g ref="char:EOLhyphen"/>ry Prayer concludeth in Jeſus Chriſt his name:</hi> Jeſus Chriſt he is, as well the <hi>Omega,</hi> as the <hi>Alpha;</hi> he is the <hi>Amen: Beloved,</hi> the <hi>graces</hi> of Gods ſpirit are <hi>living-waters;</hi> but <hi>Zech.</hi> 13.1 Jeſus Chriſt is that <hi>Fountain</hi> from which theſe <hi>waters</hi> of life are drawn: 1 <hi>Pet.</hi> 1.11 <hi>The Spirit</hi> which was in the holy Men of God, was the <hi>Spirit of Chriſt:</hi> Col. 3.3 <hi>Our life is hid in God</hi> but <hi>with Chriſt.</hi> 2 Tim. 2.1, <hi>Be ſtrong in grace. Qu.</hi> In what grace? <hi>Anſw.</hi> In <hi>that grace which is in Chriſt Jeſus.</hi> Micah 5.5 <hi>That Man ſhall be the peace. Qu.</hi> What Man? <hi>Anſw.</hi> 1 Tim. 2.5 <hi>The Man Chriſt Jeſus.</hi> Ye obtain Salvation, <hi>Qu.</hi> What ſalvation? <hi>Anſw.</hi> 2 Tim. 2.10 <hi>The ſalvation which is in Chriſt Jeſus.</hi> Epheſ. 6.10 If ye would be ſtrong to run this race, <hi>be ſtrong in the Lord, and in the power of his might; lean</hi> upon him, <hi>truſt</hi> in him, make him your <hi>ſtay,</hi> your <hi>ſtrength,</hi> and your <hi>good ſpeed:</hi> Yet this ye cannot do, until ye firſt <hi>ſtir up</hi> your ſelves <hi>to lay hold on him.</hi> I exhort therefore,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Exhortation. </seg>1</label> Since we ſhould ſo run that we may ob<g ref="char:EOLhyphen"/>tain, <hi>Let your loins be girt:</hi> Every one of us have, at the beſt, bin ill-adviſed; we have <hi>started too late,</hi> we have <hi>run too ſlowly,</hi> we have <hi>fallen too often:</hi> Yet, yet the <hi>prize</hi> a<g ref="char:EOLhyphen"/>bideth <hi>before us;</hi> as yet the <hi>Crown is within veiw;</hi> Oh, while we have yet <hi>day-light,</hi> let us <hi>work-out our ſalvation,</hi> let us not fail of
+<pb n="22" facs="tcp:31040:14"/>
+               <hi>obtaining,</hi> let us <hi>lay hold of eternal life,</hi> even, of that ſalvation which is in Chriſt Jeſus: Let every one of us <hi>redeem the time,</hi> let us all run, and ſo run, as <hi>knowing the terrors of the Lord:</hi> If we preſs not forward to appre<g ref="char:EOLhyphen"/>hend, that for which alſo we are apprehend, the <hi>terrors of the Lord</hi> they ſet themſelves <hi>in array</hi> againſt us: For,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>1</label> Firſt, It is <hi>a Duty incumbent</hi> upon us, that we run this race: Other races are left unto the ſpectators liberty; <hi>ſpare the prize, and ſpare to run,</hi> This not ſo: This ſo run, is, not a <hi>permiſſion,</hi> but a <hi>command.</hi> We are brought into this world, not to be <hi>by-ſtand<g ref="char:EOLhyphen"/>ers,</hi> not to be <hi>gazers</hi> or <hi>lookers on, (that is the the Angels lot, that,)</hi> but to be <hi>runners:</hi> We are <hi>enjoyned,</hi> we are <hi>commanded</hi> to run.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour, </seg>2</label> Next, Were there no command, yet there is a <hi>neceſſity laid upon us:</hi> Of them that doe run, others if they ſo run that they doe not obtain, they have <hi>their labour for their pains;</hi> or, if ſuffer they doe, yet is it at moſt <hi>but ſome ſmall loſs,</hi> ſome <hi>corruptible crown,</hi> ſome <hi>little ſhame</hi> which will ſoon o<g ref="char:EOLhyphen"/>ver: With us not ſo; To <hi>turn back</hi> is death, <hi>(behind us is hell;)</hi> to <hi>ſtand ſtill</hi> is death, <hi>(beneath us is hell;) If we will not lay it to heart to give glory to Gods name,</hi> Mal. 2.3. God <hi>will even bring a curſe upon us.</hi> Heb. 2.3. It is not <hi>how ſhall we obtain,</hi> but <hi>how ſhall we eſcape,</hi> if we neglect ſo great ſalvation? It is with us, as 1 <hi>Sam.</hi> 14.13, it was with <hi>Iona<g ref="char:EOLhyphen"/>than</hi>
+               <pb n="23" facs="tcp:31040:14"/>(climbing the rock with his hands) if we <hi>get not up,</hi> we <hi>fall and periſh;</hi> if we <hi>reach</hi> not the <hi>height</hi> of <hi>Sion</hi> we are <hi>caſt out</hi> into the <hi>
+                  <g ref="char:V">Ʋ</g>alley</hi> of <hi>Hinnom.</hi> It is with us as with <hi>pre<g ref="char:EOLhyphen"/>tenders unto ſupremacy;</hi> if not a <hi>Throne,</hi> a <hi>Scaffold;</hi> if not a <hi>Crown,</hi> a <hi>block;</hi> if we ob<g ref="char:EOLhyphen"/>tain not <hi>the ſalvation which is in Christ Ieſus,</hi> we ſhall everlaſtingly abide under <hi>the con<g ref="char:EOLhyphen"/>demnation of the Devil.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>3</label> Thirdly, Conſider the quality of the race here ſet before us: It is another kind of task to <hi>run thorow all Goſpel-duties,</hi> then it was to run over the race at <hi>Iſthmos:</hi> 2 <hi>Pet.</hi> 3.11, <hi>What manner of perſons ought we to be in all holy converſation and godlineſs?</hi> So much a<g ref="char:EOLhyphen"/>doe <hi>to cleanſe</hi> from <hi>vain thoughts,</hi> from <hi>evil intaginations,</hi> from <hi>all filthineſs of the Spirit!</hi> To watch againſt <hi>every idle word</hi> which we ſure to anſwer for; to <hi>lay aſide every ſin,</hi> to put away <hi>the evil of our doings,</hi> to purge our ſelves <hi>from dead works,</hi> to put off <hi>the old man!</hi> For a mind, <hi>naturally alienated</hi> from God, to <hi>acquaint it ſelf ſpiritually</hi> with God; to bring <hi>every thought into the captivity</hi> of Jeſus Chriſt, to be <hi>renewed in the ſpirit</hi> of our mind; to have our <hi>ſpeech ſeaſoned</hi> with Salt, <hi>good for e<g ref="char:EOLhyphen"/>difying,</hi> &amp; <hi>ſetting forth the praiſes</hi> of our God! To bring forth <hi>much fruit,</hi> not to loſe <hi>our firſt love,</hi> to <hi>grow in grace,</hi> to be <hi>perfect</hi> as our <hi>hea<g ref="char:EOLhyphen"/>venly father is perfect! multu<g ref="char:cmbAbbrStroke">̄</g> fecit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tulit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </hi>
+               <note place="margin">Horat.</note> — <hi>ſudavit &amp; alſit,</hi> who is ſufficient for theſe things? To make what is <hi>(for continuance).</hi>
+               <pb n="24" facs="tcp:31040:15"/>a walk, <hi>(for ſwiftneſs)</hi> a race; to <hi>walk</hi> with God, to <hi>follow</hi> God fully, nay to <hi>run after</hi> him till we <hi>overtake</hi> him, <hi>hic labor, hoc opus eſt!</hi> He that would at all times <hi>deny himſelf,</hi> and at all times <hi>exerciſe</hi> himſelf in <hi>godlineſs,</hi> muſt ſtrive more vehemently, then they ſtrive who run a race.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>4</label> Fourthly, View <hi>the trouble ſome place where<g ref="char:EOLhyphen"/>in we run:</hi> Other races are run upon <hi>cho<g ref="char:EOLhyphen"/>ſen hills,</hi> upon <hi>champian plains,</hi> upon <hi>carpet<g ref="char:EOLhyphen"/>ground;</hi> but this is run <hi>Gal.</hi> 1.4 in this <hi>pre<g ref="char:EOLhyphen"/>ſent evil world:</hi> Whether we regard proſpe<g ref="char:EOLhyphen"/>rity or adverſity, <hi>we have little good turfe</hi> here. Every one of us, as well as <hi>Magor<g ref="char:EOLhyphen"/>miſſabib</hi> Ier. 20.3, may be named <hi>Fear<g ref="char:EOLhyphen"/>round-about:</hi> If adverſity make <hi>the world go heavy</hi> with us, we are then apt to <hi>ſlip and fall</hi> like <hi>Abraham,</hi> who <hi>Gen.</hi> 20.2 ſtumbled and <hi>equivocated;</hi> like <hi>David,</hi> who 1 <hi>Sam.</hi> 21.5 ſtumbled and <hi>lyed</hi> down-rightly; like <hi>Iob, Iob</hi> (3.1) ſtumbled and <hi>fell a curſing. If</hi> pro<g ref="char:EOLhyphen"/>ſperity heap <hi>worldly bleſſings,</hi> though bleſ<g ref="char:EOLhyphen"/>ſings they be, they <hi>cumber the new man; Heze<g ref="char:EOLhyphen"/>kiah</hi> ſtuck preſently when 2 <hi>Chro.</hi> 32.25 the world went well with him; when <hi>Dives fared deliciouſly</hi> every day, <hi>Luke</hi> 16, <hi>Dives</hi> forgot that <hi>there was a hell;</hi> In ſtead of <hi>making friends</hi> by it, many ſtumble at <hi>Mammon</hi> and <hi>Prov.</hi> 30.9 <hi>deny God;</hi> Moſt, how <hi>uncertain</hi> ſoever riches are, <hi>ſet their hearts</hi> more upon <hi>wealth,</hi> then upon their <hi>God who gave it.</hi> In ſhort, <hi>duſt would to duſt;</hi> and <hi>the more it is
+<pb n="25" facs="tcp:31040:15"/>watered the more dirt it maketh:</hi> Now, to <hi>tread well</hi> in ill ground, to <hi>run among thorns</hi> and not <hi>tear the feet;</hi> to run <hi>wayes of holineſs</hi> in a <hi>world of wickedneſs!</hi> In <hi>diſadvantagions</hi> groung to <hi>run</hi> at all; yea <hi>ſo to run</hi> as to ob<g ref="char:EOLhyphen"/>tain, this is more difficult then to run a race.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>5</label> Fiftly, Caſt up how <hi>ſmall</hi> a <hi>pittance of time is here allowed us</hi> for the obtaining of this prize: To one running for a prize, what ſpace of time is allotted? <hi>Anſw:</hi> Not a minut to ſpare; Span the <hi>length of our daies;</hi> 60, 70, 80, years are <hi>ſoon paſſed over;</hi> yea none can aſſure to himſelf ſo many <hi>houres of life,</hi> no not ſo many <hi>minutes;</hi> and yet, if (du<g ref="char:EOLhyphen"/>ring life) obtain we can, well; <hi>after death</hi> there is no further running. <hi>Look we for,</hi> and <hi>haſten</hi> to the prize, what we are able; if, if we run not the faſter, our grave preventeth us. <hi>Sirs,</hi> were <hi>Methuſalem</hi> now alive, to work out his ſalvation were <hi>a project which would cost him every hour of his long life;</hi> As for many of us, we have ſcarcely found time enough <hi>to ſet our houſes in order,</hi> much leſs <hi>our hearts:</hi> To <hi>perfect holineſs,</hi> is a task for <hi>Paul the aged; David,</hi> as he was <hi>full of grace,</hi> ſo was he <hi>full of daies;</hi> but none among us can <hi>boast.</hi> himſelf <hi>of to morrow:</hi> Up, let us be running, <hi>the day is farr ſpent.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>6</label> Sixthly, Examine well <hi>thine inſufficiencies,</hi> and thou mayeſt be a terrour to thy ſelf In
+<pb n="26" facs="tcp:31040:16"/>other trials, the <hi>racers ſingled out</hi> are men na<g ref="char:EOLhyphen"/>turally <hi>agile</hi> and <hi>active,</hi> men <hi>breathed</hi> and <hi>exerciſed,</hi> men as light <hi>of foot</hi> as a <hi>wild Roe;</hi> but, we, like <hi>Mephiboſheth</hi> are <hi>lame of both our feet. Pſal.</hi> 19.5. It is for <hi>a ſtrong man</hi> to run a race; but, we are <hi>weak,</hi> our ſouls are <hi>aguiſh,</hi> made up of <hi>infirmities: (Impar con<g ref="char:EOLhyphen"/>greſſus!)</hi> Our <hi>performances are as nothing,</hi> if compared with our duties. Look on the <hi>things behind,</hi> on that part of our race which we have already run; it will prove, not <hi>haſt<g ref="char:EOLhyphen"/>ning towards,</hi> but <hi>a running from</hi> the prize. Alas, our <hi>inability</hi> is manifeſt, even, in our <hi>(once)</hi> perfection; <hi>(I ſpeak as to wiſe men)</hi> If <hi>Adam,</hi> when he <hi>could ſtand, fell;</hi> how ſhall we, who <hi>are fallen, ſtand?</hi> Beloved, the more our duties doe over mach our ſtrength, the greater is the difficulty to obtain this high prize.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>7</label> Seaventhly, Note <hi>the oppoſition we meet with;</hi> Others, when they are running a race, are ſecured from interruptions, 2 <hi>Tim</hi> 2.5 If one <hi>ſtrive,</hi> yet <hi>he is not crowned unleſs he ſtrive lawfully,</hi> viz <hi>Run with me</hi> (if you will) <hi>get before</hi> me (if you can) but, <hi>juſtle</hi> me, <hi>ſhove</hi> me, <hi>bobb</hi> me, ye may not; <hi>that is not fair;</hi> much leſs to trip up the heels: Otherwiſe it is with us in our <hi>ſpiritual race;</hi> we <hi>Pſal.</hi> 17.11 are <hi>compaſſed in our ſteps:</hi> Sathan he ever ſeeketh to foil us; either <hi>bruiſing our heels,</hi> like an <hi>old Serpent;</hi> elſe <hi>gapeing to devour us, like
+<pb n="27" facs="tcp:31040:16" rendition="simple:additions"/>a roaring Lion.</hi> So ſpightfull is the Devil un<g ref="char:EOLhyphen"/>to every Creature of God, that tather then leave his old wont, he will <hi>Mat.</hi> 8.32. tor<g ref="char:EOLhyphen"/>ment <hi>Hoggs;</hi> but, of all creatures, he is moſt <hi>envious</hi> at ſuch as are moſt <hi>like to obtain</hi> this prize: Now <hi>Jerem:</hi> 12.5 if thou haſt <hi>run with foot-men, and they have wearyed thee,</hi> then <hi>how canſt thou contend with horſes?</hi> If <hi>without ſtriving</hi> thou canſt not overcome <hi>thine own infirmities;</hi> how canſt thou, with<g ref="char:EOLhyphen"/>out ſtriving vehemently, overcome the pow<g ref="char:EOLhyphen"/>er of Satan, that I may not ſay, <hi>Preſs forward</hi> toward the mark? we muſt <hi>fight (as well as run)</hi> if ever we will obtain.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>8</label> Eighthly, Weigh <hi>the excellency of the prize:</hi> Exceeding pains, <hi>except it be for ſomewhat ſuitable,</hi> is but exceeding folly: On the other ſide, <hi>Great rewards deſerve great induſtry.</hi> Joſh. 14.9 Saith <hi>Moſes to Joſhua, Surely the land whereon thy feet have troden, ſhall be thine in<g ref="char:EOLhyphen"/>heritance: Qu.</hi> Why an inheritance ſo large? <hi>Anſw. Caleb</hi> followed God <hi>wholly: Chriſti<g ref="char:EOLhyphen"/>ans,</hi> if ever ye would obtain the everlaſting inheritance, <hi>follow God fully:</hi> If others muſt ſo run for a <hi>crown corruptible?</hi> for a few <hi>fade<g ref="char:EOLhyphen"/>ing bay-leaves?</hi> Know ye not, that the Crown ſet before you, is a <hi>Crown incorruptible?</hi> This prize is <hi>Phil.</hi> 3.14 a <hi>prize of a high calling.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Terrour. </seg>9</label> But, that which is of greateſt moment is, not our glory, but <hi>the glory of our God:</hi> All
+<pb n="28" facs="tcp:31040:17"/>the former inſtances are not worthy to be named in compariſon of this. <hi>Sirs,</hi> were it meerly our own <hi>damnation</hi> that we feared, were it meerly our own <hi>ſalvation</hi> that lay at <hi>ſtake,</hi> the worſt would then light upon our ſelves: But 1 <hi>Cor.</hi> 6.19. <hi>We are not our own;</hi> neither run we ſo much for our ſelves as for our God. The <hi>ſtart is given,</hi> and <hi>running we are,</hi> but God is he who <hi>betteth the greatest ſtake.</hi> If thou art <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, if thou art <hi>preſerved by God,</hi> this glory be given unto the God of thy ſalvation; but if <hi>Men and Angels</hi> look on, if the <hi>envious devil</hi> look on, and find <hi>in the end,</hi> that <hi>(after all thy running)</hi> obtain thou couldeſt not; then (think with thy ſelf) <hi>what</hi> will <hi>God do unto</hi> his <hi>great Name?</hi> You, before whom God hath ſet this <hi>ſpiritual race;</hi> You, whom the <hi>God of your praiſe</hi> hath <hi>ſingled out</hi> to run this race, if you <hi>(his choſen ones)</hi> obtain not, you will then give occaſion to <hi>Gods adverſary and yours,</hi> to blaſpheme the <hi>wiſdom</hi> of that God who <hi>appointeth</hi> you to run, and the <hi>power</hi> of that God who <hi>did not enable</hi> you to obtain.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Exhortation. </seg>2</label> But ye, <hi>Brethren, Let not your heart be trou<g ref="char:EOLhyphen"/>bled, neither let it be afraid:</hi> Fear hath <hi>bon<g ref="char:EOLhyphen"/>dage; watchful</hi> I would have you be, but not <hi>fearful:</hi> Heb. 6.18 <hi>The race ſet before us,</hi> is, if rightly underſtood, <hi>the hope ſet before us.</hi> Wherefore my next Exhortation is that, <hi>rejoycing in full aſſurance,</hi> ye <hi>hope unto the end.</hi>
+               <pb n="29" facs="tcp:31040:17"/>Stay not any longer upon <hi>mount Ebal,</hi> but paſs over unto <hi>mount Gerizim:</hi> Return back again <hi>(I pray you);</hi> This once return back a<g ref="char:EOLhyphen"/>gain by the ſelf-ſame <hi>way-marks</hi> which I did laſt erect; and what formerly <hi>meditated</hi> your <hi>terrors,</hi> will ever hereafter become your <hi>ſtrong conſolations.</hi>
+            </p>
+            <p>Permit that we run over them <hi>in order,</hi> and <hi>(that done)</hi> we ſhall have <hi>finiſhed our courſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>1</label> True, It is a <hi>duty incumbent</hi> upon us to run this race, mean-while this duty is, not our <hi>terror,</hi> but our <hi>rejoycing:</hi> Of our ſelves <hi>what to do,</hi> whether we <hi>ſhould or ſhould not</hi> run, we neither <hi>know, nor heed;</hi> but, ſince our <hi>Maker inſtructeth</hi> us, ſince the <hi>Law-giver directeth,</hi> ſince the <hi>Lord himſelf commandeth,</hi> happy, happy we! Now know we, that <hi>it concerneth us to run,</hi> and <hi>whither</hi> to run: Now know we, what <hi>is acceptable</hi> to our God, and <hi>good for our ſelves;</hi> if <hi>Goſpel-duties</hi> are the race ſet before us, the race ſet before us is the <hi>way of</hi> our <hi>peace.</hi> Since we have a <hi>warrant for what we do,</hi> we will run this race with chearfulneſs, and with rejoycings; for the <hi>wiſe</hi> God, the <hi>God of truth,</hi> the <hi>God of our bleſſings,</hi> He, He, in <hi>free love</hi> to our ſouls, hath ſet before us this race.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>2</label> The <hi>neceſſity laid upon us</hi> (that) maketh for our comfort too; <hi>viz. Periiſſem, niſt pe<g ref="char:EOLhyphen"/>riiſſem. Foelix neceſſitas quae cogit ad deum.
+<pb n="30" facs="tcp:31040:18"/>Hebr.</hi> 13 14 If we have here <hi>no abiding ci<g ref="char:EOLhyphen"/>ty,</hi> we <hi>ſeek that to come;</hi> If the <hi>Law condem<g ref="char:EOLhyphen"/>neth</hi> us, it <hi>ſcooleth</hi> us <hi>to Chriſt;</hi> In this caſe, <hi>deſperation begetteth courage: Neceſſity</hi> was it which <hi>made</hi> Hannibal <hi>victorious.</hi> The <hi>farther</hi> we run <hi>from death and hell,</hi> the <hi>nearer</hi> we ap<g ref="char:EOLhyphen"/>proach <hi>heaven</hi> and glory. Be it (<hi>Job</hi> 21.6.) be it, that <hi>when I remember I am afraid,</hi> yet, <hi>Sine periculo friget animus; Bleſsed is the man that</hi> thus <hi>feareth always;</hi> Parents provide <hi>rods for their children,</hi> as well as Books. <hi>Pſal.</hi> 23.4 Thy <hi>rod doth comfort</hi> me; for fear of this it is, that we love our own good the bet<g ref="char:EOLhyphen"/>ter. Of that <hi>Iſthmian</hi> race unto which our Apoſtle here alludeth, One ſide was bound<g ref="char:EOLhyphen"/>ed with the River <hi>Alpheus,</hi> the other with <hi>naked ſwords:</hi> Why this? <hi>Anſw.</hi> That they which run this race might make <hi>ſtrait pathes to their feet.</hi> Friends, the <hi>Lord of hoſts</hi> would never place hell behinde his <hi>choſen</hi> men of War, were he not well able to con<g ref="char:EOLhyphen"/>duct them into Heaven: If the Captain of <hi>our ſalvation</hi> break down the Bridge over which we came hither, while he <hi>preventeth</hi> us <hi>from turning back,</hi> he maketh us <hi>more then conquerers.</hi> (And this is our ſecond conſola<g ref="char:EOLhyphen"/>tion.)</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>3</label> The <hi>quality and nature of the race</hi> it ſelf, (that) may likewiſe be our encouragement. The <hi>ungodlineſs</hi> which we ſhould renounce, What is it? It is (we know) mere <hi>ſilthineſs,</hi>
+               <pb n="31" facs="tcp:31040:18"/>mere <hi>drudgery;</hi> a <hi>good rid of it.</hi> Who <hi>(in the good name of our God,)</hi> who would be <hi>fond of ſhackles?</hi> fond <hi>of being a ſlave?</hi> of being <hi>a ſlave unto the tyrannies of the accur<g ref="char:EOLhyphen"/>ſed devil?</hi> This ſinfulneſs which corrupt na<g ref="char:EOLhyphen"/>ture once delighted in, (Oh!) What a dead<g ref="char:EOLhyphen"/>ly trouble it brought with it? There is <hi>no peace</hi> to him that delighteth in wickedneſs, <hi>ſaith my God.</hi> Secondly, Bleſſed be <hi>the God and Father of our Lord Ieſus Chriſt;</hi> if we may be but <hi>allowed to hate every falſe way;</hi> to <hi>lay aſide every ſin,</hi> and to <hi>deny</hi> all <hi>ungodlineſs:</hi> yea and bleſſed be <hi>the God and Father of our Lord Jeſus Chriſt,</hi> that we are allowed to exerciſe our ſelves unto godlineſs, and to imitate and reſemble the Image of Gods glorious Holi<g ref="char:EOLhyphen"/>neſs. Godlineſs is great gain, <hi>if we accompt all.</hi> A <hi>new life</hi> is a <hi>new creation,</hi> and a new creation is a <hi>recreation:</hi> The wit of Man can not contrive a ſort of life more deſirable then is this which <hi>the Wiſdom of the onely Wiſe God</hi> hath <hi>chalked out</hi> unto us: For, al<g ref="char:EOLhyphen"/>though the fleſh be indeed infirm, yet it <hi>re<g ref="char:EOLhyphen"/>joyceth in hope;</hi> and, as for the <hi>Spirit,</hi> that <hi>is willing</hi> and obedient. Verily new obe<g ref="char:EOLhyphen"/>dience is, not onely <hi>profitable,</hi> but <hi>pleaſant;</hi> if it be <hi>a yoke,</hi> it is an <hi>eaſie</hi> one; and the <hi>bleſſing of the Lord</hi> reſteth upon it: To ſeek <hi>holineſs,</hi> is, to exchange <hi>curſes</hi> for <hi>bleſſedneſs, death</hi> for <hi>life, ſhame</hi> for <hi>glory, guilt</hi> for <hi>peace, darkneſs</hi> for <hi>light,</hi> and <hi>vexation</hi> for <hi>joy.</hi> How<g ref="char:EOLhyphen"/>ever, Why, ah why, ſhould Gods Com<g ref="char:EOLhyphen"/>mandements
+<pb n="32" facs="tcp:31040:19"/>be grievous unto <hi>him, who hath a love for his God?</hi> As for the wicked, if <hi>righ<g ref="char:EOLhyphen"/>teouſneſs</hi> be an <hi>abomination</hi> unto him, it is be<g ref="char:EOLhyphen"/>cauſe <hi>he knoweth no better:</hi> Of it ſelf, (<hi>Eſa.</hi> 64.5) it is all one to <hi>work righteouſneſs,</hi> and <hi>to rejoyce:</hi> A godly converſation is <hi>Phil.</hi> 3.20 a <hi>heavenly converſation!</hi> No ſuch li<g ref="char:EOLhyphen"/>berty, as (is) the Goſpel liberty; and <hi>if the Son</hi> and Heir of all things <hi>maketh</hi> us <hi>free,</hi> then are we <hi>free indeed</hi> John 3.36. (This is our third comfort.)</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>4</label> Our fourth comfort groweth in the place wherein this race is ſet before us, even in this preſent evil world: For, be it, that this world is a ſeducing world; be it, that it is a world of wickedneſs, yet, within this world, the Church of Jeſus Chriſt is <hi>the pil<g ref="char:EOLhyphen"/>lar and ground of truth.</hi> Be it, that this world is a wilderneſs, <hi>in this wilderneſs</hi> (<hi>Hoſ.</hi> 2.14) God will <hi>allure us:</hi> Chriſt, as he is the way, ſo he ſetteth up way-marks; he, <hi>Pſal.</hi> 5.8, will make his <hi>way ſtraight before us.</hi> Rather then we ſhould conform unto the evil of the world wherein we live, this Apoſtle (of us Gentiles) calleth upon us (<hi>cap.</hi> 11.1) <hi>Be ye followers of me:</hi> yea Chriſt himſelf hath given us an example: Wherefore not a man among us, but may ſay with <hi>David, Pſal.</hi> 31.8, <hi>Thou haſt ſet my feot in a large place,</hi> even (<hi>Eſa.</hi> 18.7) in <hi>the place of the name of the Lordof, hoſts.</hi> Beloved, whereſoever the
+<pb n="33" facs="tcp:31040:19" rendition="simple:additions"/>glory of Chriſt his Goſpel ſhineth, there, <hi>upon all</hi> that <hi>glory, is a defence.</hi>
+            </p>
+            <p>Secondly, Go out of the Church into the world; <hi>Ieſus Chriſt</hi> he <hi>hath overcome the world for us.</hi>
+            </p>
+            <p>Thirdly, The more diſ-advantageous the ground, the greater praiſe unto him that runneth well: To be <hi>holy in heaven</hi> is no thanks to us; to be <hi>righteous in Sodom,</hi> to be <hi>Saints in Nero's Court,</hi> this is praiſe-worthy. It was 2 <hi>Sam.</hi> 15.21 the commendation of <hi>Ittai</hi> that he would accompany his Prince <hi>in a ſtrait,</hi> he was reſolved to follow <hi>David</hi> as well in <hi>death</hi> as <hi>in life.</hi> To be then <hi>on Gods ſide</hi> when all the world <hi>ſideth againſt God,</hi> this is <hi>Loyaltie.</hi>
+            </p>
+            <p>Fourthly, The <hi>more wickedneſs</hi> abound<g ref="char:EOLhyphen"/>eth in the world, the <hi>more eaſily</hi> may Gods children learn to <hi>deteſt it;</hi> to abſtain from <hi>ſweet wines</hi> is no eaſie matter, but even he who is <hi>given to</hi> his <hi>appetite,</hi> may ſoon be diſ<g ref="char:EOLhyphen"/>ſwaded to deſiſt from <hi>quaffing off</hi> full draughts of <hi>Vinegar</hi> doth <hi>Naturally</hi> beget in us a <hi>deteſtation.</hi>
+            </p>
+            <p>Again, If the whole world lieth in wick<g ref="char:EOLhyphen"/>edneſs, it is now <hi>worthy our while</hi> to watch againſt this enemie; this will be, not a <hi>light skirmiſh,</hi> but a <hi>pitched Battail;</hi> we have now ſome hopes of growing victorious; Faith will find <hi>ſome pleaſure,</hi> if it may encounter with a <hi>world ſo dangerous</hi> as is this wherein we live.</p>
+            <pb n="34" facs="tcp:31040:20" rendition="simple:additions"/>
+            <p>To conclude this: <hi>The more wicked the world is,</hi> the <hi>more honour</hi> have all thoſe Saints which keep themſelves unſpotted of it. <hi>Phil.</hi> 2.15 We then behave our ſelves like the <hi>ſons of God,</hi> when in the <hi>midst of a crooked and perverſs generation</hi> we abide <hi>blameleſs and harmleſs.</hi> Therefore, ſo farr is the world from <hi>making againſt us,</hi> that it <hi>maketh for us:</hi> This is then our fourth comfort.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>5</label> Your Fift, Conſolation is, <hi>That the time wherein we run is but ſhort.</hi> Although the <hi>ſpi<g ref="char:EOLhyphen"/>rit</hi> be <hi>willing,</hi> (I wiſs) <hi>fleſh</hi> and <hi>blood</hi> is <hi>weak;</hi> and although the <hi>commandement is good,</hi> cor<g ref="char:EOLhyphen"/>rupt nature fancieth it <hi>greivous;</hi> allow this; never the leſs, <hi>can we not watch</hi> with Jeſus <hi>one hour?</hi> Chear up, <hi>beleivers,</hi> this world <hi>ſhall not laſt alwaies: Eſa.</hi> 57 <hi>The righteous are taken away from</hi> that which is <hi>evil.</hi> If compared to the everlaſtingneſs of the prize, <hi>all that we</hi> doe, or can <hi>ſuffer, is but for a mo<g ref="char:EOLhyphen"/>ment.</hi> Yet a little while, and we ſhall <hi>reſt from our labours;</hi> yet a little while, and the race will be ended: <hi>Know ye not,</hi> that we are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Know ye not, that what race we run</hi> (is but <hi>stadium</hi>) is, at moſt, <hi>but a furlong</hi> in lenght? <hi>Sirs,</hi> if the race (here ſet before us) be in length but <hi>one furlong,</hi> how eaſily may we hold out? This is therefore a Fift Comfort.</p>
+            <pb n="35" facs="tcp:31040:20"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>6</label> Our next Conſolation ſpringeth from a ſenſe of <hi>our natural inſufficiency:</hi> And here a threefold Cord ſtrengtheneth us: For,</p>
+            <p>Firſt, God <hi>accepteth the will for the deed: Rom.</hi> 8.34 <hi>Who is he that condemneth?</hi> It is <hi>Chriſt who died,</hi> and died <hi>for us:</hi> As Chriſt <hi>the head Eſa.</hi> 50.8 ſo every <hi>member</hi> of Chriſt may ſafely ſay <hi>He is nere that juſtifieth me.</hi>
+            </p>
+            <p>Secondly, <hi>Pſal.</hi> 94.18 <hi>When I ſaid my foot ſlippeth thy mercies O Lord held me up. Prov.</hi> 2.8 <hi>The Lord preſerveth the way of his Saints;</hi> He <hi>Pſal.</hi> 21.3 <hi>preventeth</hi> thee <hi>with</hi> his <hi>goodneſs,</hi> He <hi>Pſal.</hi> 58.13 ſets thee <hi>in the way of his ſteps: Prov.</hi> 3.23 <hi>Thy foot ſhall not ſtumble,</hi> or, if it doth, He <hi>Pſal.</hi> 19.11 <hi>ſhall bear thee up,</hi> He <hi>Prov.</hi> 3.23 <hi>will hold up thy ſteps in thy wayes:</hi> nay, <hi>Micah</hi> 7.8 <hi>When I fall, I ſhall ariſe.</hi>
+            </p>
+            <p>Thirdly, <hi>Not I, but grace:</hi> So long as the <hi>child</hi> can <hi>not goe</hi> at all, the <hi>nurſing-father carrieth him</hi> in his boſome: Of our ſelves we <hi>can doe nothing</hi> to any purpoſe, therefore doth <hi>Chriſt ſtrengthen</hi> us to do all things that he expecteth from us: That God might teach Iſrael to goe, He (<hi>Hoſ.</hi> 11.3.) <hi>took</hi> him <hi>by the armes:</hi> Jeſus Chriſt, he knoweth that we are altogether <hi>unable</hi> to fulfill his good pleaſure, wherefore he giveth us <hi>a help<g ref="char:EOLhyphen"/>ing hand;</hi> he <hi>performeth our work for us:</hi> Chriſt he knoweth that we are altogether <hi>de<g ref="char:EOLhyphen"/>ſicient,</hi>
+               <pb n="36" facs="tcp:31040:21"/>that we are altogether <hi>unprofitable;</hi> therefore he <hi>putteth to his</hi> own <hi>ſtrength,</hi> and reputeth <hi>his</hi> ſtrength <hi>ours:</hi> Jeſus Chriſt hath <hi>ſtored up</hi> grace, yea and the <hi>ſpirit of grace</hi> too, <hi>againſt the times</hi> of our <hi>need:</hi> Now that we are to run this race, he furniſhes us with ointment: The <hi>wind</hi> which bloweth where it liſteth, <hi>liſteth to ſet in our backs,</hi> and to blow us forward: <hi>Holy Angels</hi> they are made our <hi>miniſtring ſpirits;</hi> and the <hi>ſpirit of the Lord</hi> he <hi>leadeth,</hi> he <hi>draweth</hi> us on! When the ſpirit of the Lord came upon <hi>Elijah, Elijah</hi> ran farr. What ſhall we more ſay? Never (never) had the <hi>plain-dealing</hi> Holy Ghoſt enjoyned them who obey the Goſpel, <hi>ſo to run that they may obtain;</hi> if, having <hi>run their best,</hi> obtain they may not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>7</label> Another advantage ariſeth from the <hi>Oppo<g ref="char:EOLhyphen"/>ſition made againſt us;</hi> and this oppoſition is our double advantage: For,</p>
+            <p>Firſt, the that is begotten of God, fore<g ref="char:EOLhyphen"/>knowing what an adverſary he hath, will the more ſtoutly reſiſt him: 1 <hi>Ioh.</hi> 5.18 he that is begotten of God keepeth himſelf ſo pure, that that <hi>wicked one toucheth him not: prae-monitus praemunitus.</hi>
+            </p>
+            <p>Next, <hi>Eſa.</hi> 30.10 <hi>Say ye to the righteous it ſhall goe well with him: viz.</hi> God will <hi>with the temptation find a way for thine eſcape;</hi> He <hi>Pſal.</hi> 91.3 will <hi>deliver thee from the ſnare of the fowler;</hi> He <hi>Prov.</hi> 25.15 will <hi>pluck thy
+<pb n="37" facs="tcp:31040:21"/>feet out of the nett;</hi> 2 <hi>Cor.</hi> 1.10 <hi>hath deliver<g ref="char:EOLhyphen"/>ed, yea and will deliver:</hi> Jeſus Chriſt was <hi>heard in what he praied for,</hi> then when <hi>Ioh.</hi> 17.15 he petitioned, <hi>keep them from evill. Rom.</hi> 8.31 <hi>If God be for us, who can be against us? Pſal.</hi> 22.11 If there be none to help, then will God be for us. Malicious <hi>the wicked one is,</hi> but <hi>touch thee</hi> he ſhall not; unleſs then when thou <hi>tramplest him under thy feet.</hi> (This is a Seventh Refuge.) We are <hi>ſtrong,</hi> although not in our ſelves, <hi>in the Lord; Our</hi> power, is <hi>His might.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>8</label> The <hi>Excellency of the prize,</hi> that is (wor<g ref="char:EOLhyphen"/>thily) our next Comfort.</p>
+            <p>Firſt, It would <hi>never anger one</hi> to hazard his life for a <hi>Diadem of beauty:</hi> mean while, ſhould we never obtain, <hi>we are but where we were;</hi> Sons of death we were, and ſhould we fail of our Crown, we ſhould ſtill be but ſons of death. <hi>Quae ſi non potuit, magnis tamen ex<g ref="char:EOLhyphen"/>cidit auſis.</hi>
+            </p>
+            <p>Next, Let us ſtrive to obtain, and <hi>ſuppoſe we</hi> could <hi>fail,</hi> yet, ſince <hi>what we could, we did,</hi> we ſhall not be beaten with ſo many ſtripes as negligent runners ſhall; I ſay, ſup<g ref="char:EOLhyphen"/>poſe we could not avoid but die we muſt, yet we <hi>ſhall not die ſo great a death.</hi>
+            </p>
+            <p>Thirdly, Were it ſo that our labour could be in vain in the Lord, yet let none of us <hi>betray</hi> our <hi>truſt: ſerviamus lieet non liberati;</hi> Let us continue <hi>honeſt,</hi> let us continue <hi>loyal,</hi> although we abide <hi>neglected.</hi>
+            </p>
+            <pb n="38" facs="tcp:31040:22"/>
+            <p>But, Fourthly, have a reſpect, as well unto the <hi>aſſuredneſs,</hi> as unto the <hi>recompence</hi> of the reward; our crown <hi>is layed up,</hi> and it is lay<g ref="char:EOLhyphen"/>ed up <hi>for us;</hi> great <hi>is</hi> our reward in Heaven; rich <hi>is</hi> the prize of our high calling! The <hi>lips of an Angel</hi> would want words heavenly enough, and the <hi>tongue of an arch-angel</hi> would ſtammer, were it now attempting to ſet forth that <hi>everlasting joy,</hi> that <hi>eternal weight of glory,</hi> which (when we have run, when we have <hi>ſo run</hi> as we ought) we ſhall all of us moſt aſſuredly poſſeſs. View the prize, and deſiſt from running who ſo can. This <hi>tranſcendent</hi> excellency of the prize may very well paſs for an eighth comfort.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſolation. </seg>9</label> But our laſt and greateſt Conſolation is, <hi>The glory of our God.</hi>
+            </p>
+            <p>Firſt, Since the glory of our God is con<g ref="char:EOLhyphen"/>cerned, as well <hi>in our running,</hi> as <hi>in our obtain<g ref="char:EOLhyphen"/>ing,</hi> let none of Gods Elect doubt, but that, as <hi>certainly</hi> as they run, ſo <hi>aſſuredly</hi> they ſhall obtain. Know, it is out of <hi>love,</hi> out of <hi>free love,</hi> that Almighty God appointeth us both <hi>to obtain,</hi> and <hi>to run:</hi> Nor need I tell you, that this <hi>God of love</hi> changeth not: Ye all acknowledge, that for whom the graci<g ref="char:EOLhyphen"/>ous and merciful Lord hath a Fatherly love, them (as a Father) <hi>he loveth unto the end:</hi> Accompt upon it, that the ſame God, which <hi>for the glory of his free mercy</hi> enjoyneth us to run, will, <hi>for the glory of his free goodneſs,</hi>
+               <pb n="39" facs="tcp:31040:22"/>enable us to obtain. <hi>Fear not little flock, it is your Fathers good pleaſure to give you a king<g ref="char:EOLhyphen"/>dom:</hi> For this very cauſe he doth <hi>ſingle you out</hi> to run this race, that he may hereafter <hi>glorifie himſelf in exalting you</hi> unto an ex<g ref="char:EOLhyphen"/>ceeding and eternal weight of glory. How <hi>infinitely infinite</hi> is the <hi>unſearchable</hi> glory of that <hi>great</hi> God, who, unto every one that obtaineth, can beſtow ſo rich a prize, and can make, <hi>whomſoever he pleaſeth,</hi> ſo to run that he ſhall be ſure to obtain?</p>
+            <p>Next, As God therefore cauſeth us to ob<g ref="char:EOLhyphen"/>tain the prize, that he may take delight <hi>(by glorifying himſelf)</hi> in advancing us; ſo his <hi>glory will</hi> he <hi>not give to another.</hi> From what time the old Serpent <hi>fooled</hi> and <hi>foiled Adam,</hi> that Serpent hath not ceaſed to <hi>blaſpheme</hi> and <hi>revile</hi> our God; as if <hi>make us he could,</hi> but <hi>preſerve us he could not:</hi> But let the <hi>ma<g ref="char:EOLhyphen"/>lice</hi> and the <hi>ſubtilty,</hi> and the <hi>power,</hi> of Satan ſpeak and do, their worſt; <hi>whomſoever the Lord reſerveth</hi> to himſelf, <hi>preſerve them he can,</hi> exalt them he will: when <hi>Satan</hi> hath layed all the <hi>ſnares</hi> which his <hi>revengeful ma<g ref="char:EOLhyphen"/>lice</hi> can invent, the elect of God <hi>ſhall run,</hi> and (running) ſhall <hi>obtain.</hi> True, ſhould not the <hi>choſen of the Lord</hi> obtain the prize for which they run, the Devil would then vaunt it indeed; but, aſſure your ſelves, <hi>God ſtand<g ref="char:EOLhyphen"/>eth more upon his honor then ſo.</hi> Eſa. 43.21 <hi>This people have I formed for my ſelf, they ſhall
+<pb n="40" facs="tcp:31040:23"/>ſhew forth my praiſe:</hi> Of every one which runneth his beſt, God ſaith, <hi>For mine own ſake, even for mine own ſake I will do it; I have brought him, and he, ſhall make his way proſperous,</hi> Eſa. 48.11. Look back upon <hi>the glory of God</hi> in that Text; It is <hi>not I</hi> the om<g ref="char:EOLhyphen"/>nipotent God will, <hi>but he</hi> (he <hi>whom I have brought</hi>) ſhall, make his way proſperous. A <hi>Giant</hi> can make a <hi>childe</hi> overcome a <hi>ſtrong man.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">The Concluſion </seg>
+               </label> Hear me (ye that deſpair of this heaven<g ref="char:EOLhyphen"/>ly prize); In our obtaining, our <hi>God is inter<g ref="char:EOLhyphen"/>eſted as deeply as are we:</hi> He is not onely of <hi>our ſide,</hi> but <hi>of our party:</hi> Are ye reſolved to win the prize, if ye can? Know, it is <hi>Gods determination</hi> that ye <hi>ſhall</hi> win it, if you <hi>will:</hi> That Jeſus Chriſt <hi>made the lame to walk,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 15.31. <hi>Mark.</hi> 7.37. <hi>Jer.</hi> 33.9.</note> it was the glory of God the Father; it is like<g ref="char:EOLhyphen"/>wiſe the glory of God the Father, that Jeſus Chriſt enableth <hi>lame believers, ſo to run</hi> that they may obtain.</p>
+            <p>
+               <hi>Revel.</hi> 4.11 Saints and Angels cry <hi>Thou art worthy O Lord to receive glory, honour, and power, for thou haſt created all things, and for thy pleaſure</hi> they are, and were, <hi>created;</hi> they <hi>were</hi> created <hi>at firſt,</hi> and <hi>are still</hi> created, that is, <hi>preſerved. Friends,</hi> if the <hi>houſ-keep<g ref="char:EOLhyphen"/>er</hi> will not give way that any <hi>idle buſie-bodies</hi> ſhall by any meanes <hi>diſappoint</hi> him of his <hi>full retinue,</hi> and of his <hi>full number of ſervants</hi> and <hi>attendants;</hi> then of all thoſe whom the
+<pb n="41" facs="tcp:31040:23"/>great God hath choſen to fill up the number of his <hi>hoavenly Quire,</hi> he will looſe none:<note place="margin">1 <hi>Pet.</hi> 1.5.</note> (None) <hi>maugre</hi> all that ſin or Satan <hi>ſhall</hi> or <hi>can</hi> doe.</p>
+            <p>Only take ye heed that ye exclude not your ſelves from being <hi>Kingly Prieſts</hi> unto our God:<note place="margin">
+                  <hi>Revel.</hi> 1.6.</note> The <hi>Devil,</hi> he ſeeketh our <hi>pendi<g ref="char:EOLhyphen"/>tion;</hi> but, as for <hi>Jeſus Chriſt,</hi> the ſame minde is ever in him towards us,<note place="margin">
+                  <hi>Phil.</hi> 4.1. <hi>Joh.</hi> 17.10, 23.</note> which was once in St. <hi>Paul</hi> toward the <hi>Philipians;</hi> we are his <hi>dearly beloved,</hi> his <hi>longed for,</hi> his <hi>joy,</hi> and his <hi>crown:</hi> He died for us, he layeth up for us. an <hi>eternal weight</hi> of glory; Oh let him <hi>ſee of the travail of his ſoul:</hi> It is our <hi>Maſters joy,</hi>
+               <note place="margin">
+                  <hi>Matt.</hi> 25, 21</note> as well as <hi>ours,</hi> if we <hi>ſo run</hi> that we <hi>doe obtain.</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 14.21.</note> To him it is, to him it will be, <hi>a praiſe, a de<g ref="char:EOLhyphen"/>light,</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 1.6, 12. 1 <hi>Pet.</hi> 1.7.</note> 
+               <hi>a rejoycing,</hi> is we day by day <hi>ſo run</hi> through every preſent duty, as <hi>in ſinceritie</hi> we ought.</p>
+            <p>Let them ceaſe form running,<note place="margin">
+                  <hi>Heb.</hi> 11.26.</note> who <hi>forſake their own mercy;</hi> but let us (who have an <hi>eye to the recompence of reward</hi>),<note place="margin">1 <hi>Pet.</hi> 1.2.</note> let us <hi>(through ſanctification of the ſpirit to obedience)</hi> ſo run on unto perfection,<note place="margin">2 <hi>Theſ.</hi> 2.13, 14.</note> that we may obtain <hi>ever<g ref="char:EOLhyphen"/>laſting joy</hi> to our ſelves; and (what is more defireable) <hi>everlaſting glory</hi> to our Lord God.</p>
+            <p>To him, <hi>even,</hi> to God the Holy Spirit, which worketh in us <hi>to will and to doe;</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 2.13.</note> unto God the Son, who <hi>hath given us of his Spirit;</hi>
+               <note place="margin">1 <hi>Joh.</hi> 3.24.</note> unto God the Father, who <hi>hath given us his
+<pb n="42" facs="tcp:31040:24"/>Son,</hi>
+               <note place="margin">
+                  <hi>Eſa.</hi> 6.9.</note> and (with his Son) <hi>all things pertaining to life, and godlineſs;</hi>
+               <note place="margin">2 <hi>Pet.</hi> 1.3.</note> be, the perfection of <hi>the Race ſet before us,</hi> the dayly comfort of dayly <hi>well running,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8.32.</note> and <hi>the prize which we</hi> ſhall everlaſtingly <hi>obtain,</hi> with <hi>due humility,</hi> and with <hi>unfained thankfulneſs,</hi> for ever and ever aſcribed; <hi>Amen,</hi> and <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31040:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
